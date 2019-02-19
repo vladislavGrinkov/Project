@@ -1,0 +1,15 @@
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\bin\Debug\DFT.exe.config
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\bin\Debug\DFT.exe
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\bin\Debug\DFT.pdb
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\obj\Debug\DFT.Form1.resources
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\obj\Debug\DFT.Properties.Resources.resources
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\obj\Debug\DFT.csproj.GenerateResource.Cache
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\obj\Debug\DFT.csproj.CoreCompileInputs.cache
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\obj\Debug\DFT.exe
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\obj\Debug\DFT.pdb
+c:\users\acer es1-572-p5no\Source\Repos\DFT\DFT\obj\Debug\DFT.Form2.resources
+C:\Users\Acer ES1-572-P5NO\Source\Repos\DFT\DFT\obj\Debug\DFT.Form3.resources
+C:\Users\Acer ES1-572-P5NO\Source\Repos\DFT\DFT\obj\Debug\DFT.Form4.resources
+C:\Users\Acer ES1-572-P5NO\Source\Repos\DFT\DFT\obj\Debug\DFT.Form6.resources
+C:\Users\Acer ES1-572-P5NO\Source\Repos\DFT\DFT\obj\Debug\DFT.Form5.resources
+C:\Users\Acer ES1-572-P5NO\Source\Repos\DFT\DFT\obj\Debug\DFT.csprojAssemblyReference.cache
